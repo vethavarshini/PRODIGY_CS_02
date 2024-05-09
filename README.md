@@ -22,7 +22,7 @@ This project demonstrates how to perform pixel manipulation for image encryption
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/pixel_manipulation_for_image_encryption.py.git
+    git clone https://github.com/vethavarshini/PRODIGY_CS_02.git
     ```
 
 2. Navigate to the project directory:
